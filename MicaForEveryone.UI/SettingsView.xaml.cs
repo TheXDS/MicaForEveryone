@@ -26,7 +26,8 @@ namespace MicaForEveryone.UI
 
         internal Contributor[] Translators { get; } =
         {
-            new Contributor("Merhab Poladov", "https://github.com/thepoladov13", "az"),
+            new Contributor("Mehrab Poladov", "https://github.com/thepoladov13", "az"),
+            new Contributor("maggster165", "https://github.com/maggster165", "cs"),
             new Contributor("uDEV2019", "https://github.com/uDEV2019", "de"),
             new Contributor("Amaro Martínez", "https://github.com/xoascf", "es"),
             new Contributor("SaiyajinK", "https://github.com/SaiyajinK", "fr"),
@@ -40,6 +41,7 @@ namespace MicaForEveryone.UI
             new Contributor("toineenzo", "https://github.com/toineenzo", "nl"),
             new Contributor("Piteriuz", "https://github.com/Piteriuz", "pl"),
             new Contributor("Douglas Vianna", "https://github.com/dgsmiley18", "pt-br"),
+            new Contributor("DavidJoacaRo", "https://github.com/DavidJoacaRo", "ro"),
             new Contributor("Danik2343", "https://github.com/Danik2343", "ru"),
             new Contributor("krlvm", "https://github.com/krlvm", "ru"),
             new Contributor("bzzrak", "https://github.com/bzzrak", "sr"),
@@ -52,6 +54,7 @@ namespace MicaForEveryone.UI
             new Contributor("MW1Z", "https://github.com/MW1Z", "zh-Hant"),
             new Contributor("宥叡", "https://github.com/jay900604", "zh-Hant"),
             new Contributor("flandretw", "https://github.com/flandretw", "zh-Hant"),
+			new Contributor("trlef19", "https://github.com/trlef19", "el"),
         };
 
         private void ListView_Loaded(object sender, RoutedEventArgs args)
